@@ -1,26 +1,2 @@
-##First Code
 
-print('Hello World')
-
-##Drawing a shape
-
-print('   /|')
-print('  / |')
-print(' /  |')
-print('/___|')
-
-##Variables and Data Types
-
-character_name = 'Pervej'
-character_age = '35'
-print('there was once a man named ' + character_name+ ',')
-print('He was ' + character_age + ' years old.')
-print('He really liked the name ' + character_name+ ',')
-print('But didnt like being ' + character_age + ' .')
-
-##so there is basically some data types in python
-##such as
-        #String = this are just plain text
-        ##number = this are just like mathmetical number
-        ##bolean = Either True or False
 
